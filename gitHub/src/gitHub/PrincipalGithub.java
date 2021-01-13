@@ -1,4 +1,5 @@
-//Exception para el programa de ejemplo exceptiongithub
+//Exception para el programa de ejemplo exceptiongithub 
+//para otra version
 package gitHub;
 
 public class PrincipalGithub {

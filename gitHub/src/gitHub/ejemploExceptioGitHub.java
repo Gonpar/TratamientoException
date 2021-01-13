@@ -1,7 +1,7 @@
 package gitHub;
 
 public class ejemploExceptioGitHub extends Exception {
-   //constructor
+   //constructor para todo
 	public ejemploExceptioGitHub(String msg) {
 		super(msg);
 	}
